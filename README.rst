@@ -1,9 +1,9 @@
-Secttion added by Christian Igwebuike
-Email: christianigwebuike31@gmail.com
-=====================================
-* url to blog post: https://medium.com/@christianigwebuike30/what-happens-when-you-type-https-www-google-com-i\
-n-your-browser-and-press-enter-3fd7db42017e
-* url to schema or diagram: https://imgbox.com/zQKutFPq
+Section added by Christian Igwebuike\
+Email: christianigwebuike31@gmail.com\
+url to blog post: https://medium.com/@christianigwebuike30/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-3fd7db42017e
+\
+url to schema or diagram: https://imgbox.com/zQKutFPq
+\
 
 
 What happens when...
@@ -718,8 +718,10 @@ page rendering and painting.
 .. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
 .. _`Spanish`: https://github.com/gonzaleztroyano/what-happens-when-ES
 
-// Secttion added by Christian Igwebuike
-Email: christianigwebuike31@gmail.com
-=====================================
-* url to blog post: https://medium.com/@christianigwebuike30/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-3fd7db42017e
-* url to schema or diagram: https://imgbox.com/zQKutFPq
+Section added by Christian Igwebuike\
+Email: christianigwebuike31@gmail.com\
+url to blog post: https://medium.com/@christianigwebuike30/what-happens-when-you-type-https-www-google-com-in-\
+your-browser-and-press-enter-3fd7db42017e
+\
+url to schema or diagram: https://imgbox.com/zQKutFPq
+\
