@@ -1,4 +1,4 @@
-// Secttion added by Christian Igwebuike
+Secttion added by Christian Igwebuike
 Email: christianigwebuike31@gmail.com
 =====================================
 * url to blog post: https://medium.com/@christianigwebuike30/what-happens-when-you-type-https-www-google-com-i\
